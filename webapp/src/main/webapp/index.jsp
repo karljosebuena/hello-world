@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you and Happy Learning Warlito 🔥 </h1>
+   <h1> Thank you and Happy Learning Warlito ;) </h1>
 
 </form>
