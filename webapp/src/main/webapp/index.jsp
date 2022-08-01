@@ -35,4 +35,6 @@
 
    <h2>Congratz for finishing the course!</h2>
 
+   <h3>CI/CD successfully integrated ;)</h3>
+
 </form>
