@@ -33,4 +33,6 @@
 
    <h1> Thank you and Happy Learning! </h1>
 
+   <h2>Congratz for finishing the course!</h2>
+
 </form>
